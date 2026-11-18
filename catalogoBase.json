@@ -2,5 +2,102 @@
   "formato": 1,
   "aggiornato": "2026-11-18",
   "fonte": "Valori nutrizionali dalle etichette dei prodotti, verificati da un owner o da un writer di ContaCHO",
-  "prodotti": []
+  "prodotti": [
+    {
+      "id": "mmwhzyrtas3dup",
+      "nome": "Buoni così Galbusera",
+      "codice": "8002190001807",
+      "pasti": [
+        "colazione"
+      ],
+      "varianti": [
+        {
+          "dal": "2026-11-16",
+          "c": 61.9,
+          "pesoPezzo": 6.3
+        }
+      ],
+      "foto": "foto/mmwhzyrtas3dup.jpg"
+    },
+    {
+      "id": "mmwi0ybkps6rw8",
+      "nome": "Conad: triangoli al riso nero",
+      "codice": "8003170080690",
+      "pasti": [
+        "spuntino"
+      ],
+      "varianti": [
+        {
+          "dal": "2026-11-16",
+          "c": 74,
+          "pesoPezzo": null
+        }
+      ],
+      "foto": "foto/mmwi0ybkps6rw8.jpg"
+    },
+    {
+      "id": "mmwi09q0qcwos6",
+      "nome": "Findus, zuppaFarro e ceci con grano saraceno",
+      "codice": null,
+      "pasti": [
+        "pasto"
+      ],
+      "varianti": [
+        {
+          "dal": "2026-11-16",
+          "c": 14,
+          "pesoPezzo": null
+        }
+      ],
+      "foto": "foto/mmwi09q0qcwos6.jpg"
+    },
+    {
+      "id": "mmwm5qrpr72kdt",
+      "nome": "Jocca, fiocchi cremosi",
+      "codice": "7622210613455",
+      "pasti": [
+        "pasto"
+      ],
+      "varianti": [
+        {
+          "dal": "2026-11-18",
+          "c": 3.1,
+          "pesoPezzo": null
+        }
+      ],
+      "foto": "foto/mmwm5qrpr72kdt.jpg"
+    },
+    {
+      "id": "mmwkiau84ubeut",
+      "nome": "Oro Saiwa grano fondente",
+      "codice": "7622210954008",
+      "pasti": [
+        "colazione"
+      ],
+      "varianti": [
+        {
+          "dal": "2026-11-17",
+          "c": 69,
+          "pesoPezzo": 8.3
+        }
+      ],
+      "foto": "foto/mmwkiau84ubeut.jpg"
+    },
+    {
+      "id": "mmwi02b9m8ocgm",
+      "nome": "Oro Saiwa senza zucchero",
+      "codice": "7622210953537",
+      "pasti": [
+        "colazione"
+      ],
+      "varianti": [
+        {
+          "dal": "2026-11-16",
+          "c": 74,
+          "pesoPezzo": 8.3
+        }
+      ],
+      "foto": "foto/mmwi02b9m8ocgm.jpg"
+    }
+  ]
 }

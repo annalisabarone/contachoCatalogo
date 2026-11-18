@@ -6,6 +6,7 @@ vengono invece dalle tabelle ufficiali CREA e non sono qui.
 
 - `catalogoBase.json` — il catalogo (formato descritto in `schemaCatalogo.json`)
 - Nessun dato personale: niente nomi, nickname, email o diari.
+- `foto/` — foto delle confezioni (240×240), indicate nel campo `foto` di ogni prodotto
 
 ## Come si aggiorna
 
