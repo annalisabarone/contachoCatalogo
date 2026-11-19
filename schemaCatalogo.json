@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://raw.githubusercontent.com/pdipietro/contachoCatalogo/main/schemaCatalogo.json",
+  "$id": "https://raw.githubusercontent.com/annalisabarone/contachoCatalogo/main/schemaCatalogo.json",
   "title": "Catalogo base dei prodotti di ContaCHO",
   "description": "Prodotti di marca con valori verificati sull'etichetta. Nessun dato personale.",
   "type": "object",
